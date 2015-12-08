@@ -2,6 +2,8 @@
 
 This example demonstrates how to use the halbuilder to build json in hal format.
 
+For more information see the [HalBuilder User Guide](http://www.gotohal.net/halbuilder.html)
+
 Some examples:
 <http://localhost:8080/rest/albums/1> Accept:application/hal+json
 ```json
